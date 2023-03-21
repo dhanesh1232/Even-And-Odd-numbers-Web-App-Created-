@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Roboto';
+}
+h1 {
+  color: #0f172a;
+}
+.h2 {
+  color: #334155;
+  font-weight: normal;
+  font-size: 24px;
+}
+p {
+  color: #334155;
+  font-weight: normal;
+}
+.btn {
+  height: 2rem;
+  width: 7.8rem;
+  border: solid 0px;
+  border-radius: 5px;
+}
+button {
+  cursor: pointer;
+  outline: none;
+}
